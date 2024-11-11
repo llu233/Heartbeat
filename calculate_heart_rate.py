@@ -1,4 +1,3 @@
-# calculate_heart_rate.py
 import numpy as np
 
 def calculate_heart_rate(r_peaks, sampling_rate):
