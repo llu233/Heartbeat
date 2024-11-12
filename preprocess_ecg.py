@@ -1,4 +1,3 @@
-# preprocess_ecg.py
 import cv2
 import numpy as np
 
