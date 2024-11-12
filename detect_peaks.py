@@ -1,4 +1,3 @@
-# detect_peaks.py
 from scipy.signal import find_peaks
 import numpy as np
 
