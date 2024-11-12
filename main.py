@@ -1,4 +1,3 @@
-# main.py
 from preprocess_ecg import preprocess_ecg_image
 from detect_peaks import detect_r_peaks
 from calculate_heart_rate import calculate_heart_rate
