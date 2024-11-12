@@ -1,4 +1,3 @@
-# heart_simulation.py
 import time
 import os
 import numpy as np  # Import numpy here
